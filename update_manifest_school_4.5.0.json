@@ -1,0 +1,14 @@
+{
+  "product": "tpk-smart-library-school",
+  "version": "4.5.0",
+  "files": [
+    {
+      "path": "TPK_Smart_Library.exe",
+      "sha256": "3c48b9cbfb6f7c1be00ead046eeb11ffb848fa91707f598777ec42139c4d4743"
+    },
+    {
+      "path": "TPK_Smart_Library_Server_Debug.exe",
+      "sha256": "95b40745ce08a8ccd1e4e22bf58b730d54ce912516187d5757a8fba3e037edb9"
+    }
+  ]
+}

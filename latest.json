@@ -1,0 +1,13 @@
+﻿{
+  "product": "tpk-smart-library-school",
+  "version": "4.5.0",
+  "package_url": "https://github.com/utit445566-art/smart-library-update-center/releases/download/v4.5.0/TPK_SmartLibrary_Update_4.5.0.zip",
+  "sha256": "17133704bbcb145b2f6c629b11adc079826ed908c3b53e2d79e74f1d2f27d2c1",
+  "notes": [
+    "เพิ่มระบบ Online / Offline Update",
+    "เพิ่ม Smart Library Updater แยกจาก Server หลัก",
+    "เพิ่ม Backup ก่อนอัปเดต ตรวจ SHA-256 และ Rollback",
+    "รองรับรูปปกหนังสือและรูปสมาชิกทั้ง URL และไฟล์"
+  ],
+  "published_at": "2026-09-08"
+}

@@ -1,0 +1,14 @@
+{
+  "product": "smart-library",
+  "version": "1.2.0",
+  "files": [
+    {
+      "path": "Smart_Library.exe",
+      "sha256": "244b166c4a8f8b8c30566838a87cf1fa18a76bfcbbc03b22effe26ec4f632b40"
+    },
+    {
+      "path": "Smart_Library_Server_Debug.exe",
+      "sha256": "d63b9848b8f71316fbaff60c54b0ceb653c743f07974526c8a56dcb7be860bfb"
+    }
+  ]
+}
