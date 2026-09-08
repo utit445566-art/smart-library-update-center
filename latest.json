@@ -1,13 +1,13 @@
 {
   "product": "tpk-smart-library-school",
-  "version": "4.5.0",
-  "package_url": "https://github.com/utit445566-art/smart-library-update-center/releases/download/v4.5.0/TPK_SmartLibrary_Update_4.5.0.zip",
-  "sha256": "17133704bbcb145b2f6c629b11adc079826ed908c3b53e2d79e74f1d2f27d2c1",
+  "version": "4.5.1",
+  "package_url": "https://github.com/utit445566-art/smart-library-update-center/releases/download/v4.5.1/TPK_SmartLibrary_Update_4.5.1.zip",
+  "sha256": "c5d1528ed46ff37a0f8482f1178bfe14ac946a2c8c579e92d85f0edfcfb64ed4",
   "notes": [
-    "เพิ่มระบบ Online / Offline Update",
-    "เพิ่ม Smart Library Updater แยกจาก Server หลัก",
-    "เพิ่ม Backup ก่อนอัปเดต ตรวจ SHA-256 และ Rollback",
-    "รองรับรูปปกหนังสือและรูปสมาชิกทั้ง URL และไฟล์"
+    "อัปเกรดไอคอน Sidebar ทั้ง 17 เมนูเป็นชุดไอคอนน่ารัก",
+    "เพิ่มเอฟเฟกต์ Hover และ Active ให้ไอคอน",
+    "แก้ Online Update ให้อ่าน latest.json ที่มี UTF-8 BOM ได้",
+    "ไม่เปลี่ยนฐานข้อมูล สมาชิก หนังสือ รูป หรือประวัติการใช้งาน"
   ],
   "published_at": "2026-09-08"
 }
